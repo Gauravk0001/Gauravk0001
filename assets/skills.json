@@ -1,0 +1,13 @@
+{
+  "title": "Technical Skills",
+  "_comment": "Self-rated values from 0-100. Update these as your skills develop.",
+  "axes": [
+    { "label": "Python", "value": 85 },
+    { "label": "AI / ML", "value": 85 },
+    { "label": "Cybersecurity", "value": 88 },
+    { "label": "Full Stack", "value": 82 },
+    { "label": "Databases", "value": 75 },
+    { "label": "Cloud", "value": 72 },
+    { "label": "Automation", "value": 70 }
+  ]
+}

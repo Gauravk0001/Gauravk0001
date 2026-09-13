@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Descriptions are written for a client-facing portfolio and reflect the actual projects.",
+  "projects": [
+    {
+      "repo": "Sentinel-ai",
+      "description": "Production-grade cybersecurity platform for privacy-preserving insider data-exfiltration detection using behavioral analytics, ML anomaly detection, and explainable AI."
+    },
+    {
+      "repo": "AuraSight",
+      "description": "Multimodal AI accessibility platform that transforms video into visual descriptions, VQA conversations, tactile SVG exports, haptic feedback, and real-time narration for visually impaired users."
+    },
+    {
+      "repo": "SECOPS-AGENTIC",
+      "description": "Cyber Defense Operations platform combining Isolation Forest anomaly detection, PyTorch GRU attack forecasting, explainable AI, RBAC, and tamper-evident blockchain evidence anchoring."
+    },
+    {
+      "repo": "MediNova",
+      "description": "AI healthcare website agent with Gemini-powered clinic Q&A, appointment scheduling, Salesforce lead/task creation, and an embeddable chat widget."
+    }
+  ]
+}
