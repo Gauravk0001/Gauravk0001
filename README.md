@@ -57,7 +57,7 @@
 
 <br>
 
-<img src="assets/metrics.languages.svg" height="165" alt="Most used languages">
+<img src="https://raw.githubusercontent.com/Gauravk0001/Gauravk0001/main/assets/metrics.languages.svg" height="165" alt="Most used languages">
 
 <br><br>
 
@@ -149,4 +149,5 @@ I'm open to **freelance projects, collaborations, internships, and opportunities
 <sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
+
 
